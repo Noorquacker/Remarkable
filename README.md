@@ -4,7 +4,7 @@
 
 This fork is intended for my personal use only, by using KaTeX and a dark version of the GitHub theme.
 
-This form is only made for use on Arch Linux
+This fork is only made for use on Arch Linux
 
 ### A Fully Featured Markdown Editor for Linux
 
